@@ -8,4 +8,4 @@ Detta repository innehåller DevSecOps-Pipeline-Project, en grundläggande imple
 * **[Namn 2]** - *Tim Rundquist*
 * **[Namn 3]** - *Malcolm Skoglund*
 * **[Namn 4]** - *Viktor Westerlund*
-* **[Namn 5]** - *namn*
+* **[Namn 5]** - *Willibroad Ngebi*
