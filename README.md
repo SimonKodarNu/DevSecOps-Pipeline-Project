@@ -7,5 +7,5 @@ Detta repository innehåller DevSecOps-Pipeline-Project, en grundläggande imple
 * **[Namn 1]** - *Simon Niklasson*
 * **[Namn 2]** - *Tim Rundquist*
 * **[Namn 3]** - *namn*
-* **[Namn 4]** - *namn*
+* **[Namn 4]** - *Viktor Westerlund*
 * **[Namn 5]** - *namn*
